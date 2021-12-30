@@ -79,7 +79,7 @@ li {
   transition: color 0.4s linear;
   position: relative;
   overflow: hidden;
-  margin: 50px 450px;
+  margin: 50px;
 }
 /* a, button {
   color: #fff;
